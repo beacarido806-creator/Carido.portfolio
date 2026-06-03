@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FFFFFF;">.:♦*♥ Hi there! I'm Kristine Bea Carido ♥*♦:.</h1>
+<h1 align="center" style="color:#FFFFFF;">.: Hi there! I'm Kristine Bea Carido :.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F4C2C2&center=true&vCenter=true&width=650&lines=BSIT+Student;Aspiring+Web+Developer;Future+IT+Professional;Technology+Enthusiast" />
@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a BSIT student passionate about technology, system dev
 
 ### **About Me** ♥
 
-Hello! My name is ♥ **KRISTINE BEA CARIDO** ♥, a Bachelor of Science in Information Technology (BSIT) student.
+Hello! My name is  **KRISTINE BEA CARIDO** , a Bachelor of Science in Information Technology (BSIT) student.
 
 I am passionate about technology, programming, and building systems that solve real-world problems. I enjoy learning how software and web systems work and continuously improving my skills in development and problem-solving.
 
