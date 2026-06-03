@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#FFFFFF;">.: Hi there! I'm Kristine Bea Carido :.</h1>
+<h1 align="center" style="color:#FFFFFF;"> Hi there! I'm Kristine Bea Carido </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F4C2C2&center=true&vCenter=true&width=650&lines=BSIT+Student;Aspiring+Web+Developer;Future+IT+Professional;Technology+Enthusiast" />
