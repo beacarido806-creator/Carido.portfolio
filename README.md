@@ -10,7 +10,7 @@ Welcome to my GitHub! I'm a BSIT student passionate about technology, system dev
 
 ### **About Me** ♥
 
-Hello! My name is  **KRISTINE BEA CARIDO** , a Bachelor of Science in Information Technology (BSIT) student.
+Hello! My name is  **KRISTINE BEA CARIDO** , a 2nd year Bachelor of Science in Information Technology (BSIT) student.
 
 I am passionate about technology, programming, and building systems that solve real-world problems. I enjoy learning how software and web systems work and continuously improving my skills in development and problem-solving.
 
