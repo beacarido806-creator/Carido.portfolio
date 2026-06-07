@@ -26,7 +26,6 @@ My goal is to become a skilled IT professional who can develop efficient, innova
 - **Web-Based System Projects** — Academic projects focused on system development and web applications.
 - **Database Management Projects** — Exercises and systems involving database design and data handling.
 - **System Analysis and Design Documents** — Documentation of system requirements, design, and development processes.
-- **IT Research Paper** — Academic research related to Information Technology and system innovation.
 
 ---
 
@@ -37,7 +36,6 @@ My goal is to become a skilled IT professional who can develop efficient, innova
 - PHP (Basic)
 - MySQL Database
 - System Analysis and Design
-- Microsoft Office Suite
 - Canva
 - Visual Studio Code
 
